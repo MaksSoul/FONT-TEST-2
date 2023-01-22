@@ -3,6 +3,11 @@
     src: url(./fonts/DivisionOne-Bold.otf); 
   } 
 
-h1{
-    font-family:DivisionOneBold;
+  @font-face {
+    font-family: ROMANUS; 
+    src: url(./fonts/ROMANUS.otf); 
+  } 
+
+h2{
+    font-family:ROMANUS;
 }
